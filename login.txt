@@ -1,2 +1,3 @@
 usuario: uriel23
-pass: sabado
+pass: sábado
+conflicto hecho
