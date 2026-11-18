@@ -4,3 +4,6 @@ Este espacio no se toca
 
 usuario2: ivonne234
 pass: domingo
+
+
+usuario:patito2
